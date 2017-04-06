@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+.tmp
+.sass-cache
+client/bower_components
+dist
+/server/config/local.env.js
+npm-debug.log
+dist.zip
+env
